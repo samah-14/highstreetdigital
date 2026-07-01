@@ -7,8 +7,6 @@
 
   .hero-visual {
     min-height: auto;
-    max-width: 680px;
-    margin: 0 auto;
   }
 
   .six-grid,
@@ -114,12 +112,6 @@
   .hero-visual img {
     width: 100%;
     border-radius: 18px;
-    transform: none;
-    border-width: 5px;
-  }
-
-  .hero-proof {
-    align-items: flex-start;
   }
 
   .section {
@@ -138,11 +130,6 @@
 
   .price-card.featured {
     transform: none;
-  }
-
-  .price-card:hover,
-  .price-card.featured:hover {
-    transform: translateY(-4px);
   }
 
   .form-row.two {
@@ -180,10 +167,6 @@
 
   .cta-banner {
     border-radius: 16px;
-  }
-
-  .hero-proof {
-    display: grid;
   }
 
   .newsletter div {
